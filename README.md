@@ -54,11 +54,11 @@ and for Each bidder there will be following three parameters:
 ** 6.Change the following property value  in log4j.properties file
     log4j.appender.file.File ="Path where you want to store your logs"   
     
-***7. Now you can run AutoBidAuctionAPITest class with coverage 
+***7. Now you can run AutoBidSystemAPITest class with coverage 
     or if you want to use this functionality in other applications you can call   
 
 ```
-AutoBidAuctionAPI.declareWinner() method by passing Bid class object.
+AutoBidSystemAPI.declareWinner() method by passing Bid class object.
 ```
 So you need to create Bid class object(you can see what all parameters are required to create this object by checking the Bid constructor)
 
