@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="587e375a-064d-4fff-a146-392c7f27dbd5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XBZHIK0MlFUY1GztT6zLNAJqYF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.tally.autobidauctionsystem" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AutoBidSystemAPITest">
+    <configuration name="AutoBidAuctionAPITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autobidauctionsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tally.autobidauctionsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tally.autobidauctionsystem" />
+      <option name="MAIN_CLASS_NAME" value="com.tally.autobidauctionsystem.AutoBidAuctionAPITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoBidAuctionAPITest.testDeclareWinner_Exception_NegativeIncrementValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autobidauctionsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tally.autobidauctionsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tally.autobidauctionsystem" />
+      <option name="MAIN_CLASS_NAME" value="com.tally.autobidauctionsystem.AutoBidAuctionAPITest" />
+      <option name="METHOD_NAME" value="testDeclareWinner_Exception_NegativeIncrementValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoBidAuctionAPITest.testDeclareWinner_Exception_NullListOfBidders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autobidauctionsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tally.autobidauctionsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tally.autobidauctionsystem" />
+      <option name="MAIN_CLASS_NAME" value="com.tally.autobidauctionsystem.AutoBidAuctionAPITest" />
+      <option name="METHOD_NAME" value="testDeclareWinner_Exception_NullListOfBidders" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoBidAuctionAPITest.testDeclareWinner_Exception_whenMaxBidPriceLessThanStartBidPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autobidauctionsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tally.autobidauctionsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tally.autobidauctionsystem" />
+      <option name="MAIN_CLASS_NAME" value="com.tally.autobidauctionsystem.AutoBidAuctionAPITest" />
+      <option name="METHOD_NAME" value="testDeclareWinner_Exception_whenMaxBidPriceLessThanStartBidPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoBidSystemAPITest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="autobidauctionsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rani.autobidsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home" />
+      <option name="PACKAGE_NAME" value="com.rani.autobidsystem" />
+      <option name="MAIN_CLASS_NAME" value="com.rani.autobidsystem.AutoBidSystemAPITest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoBidSystemAPITest.testDeclareWinnerExceptionForNegativeIncrementValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autobidauctionsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rani.autobidsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rani.autobidsystem" />
+      <option name="MAIN_CLASS_NAME" value="com.rani.autobidsystem.AutoBidSystemAPITest" />
+      <option name="METHOD_NAME" value="testDeclareWinnerExceptionForNegativeIncrementValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AutoBidSystemAPITest" />
+      <item itemvalue="JUnit.AutoBidAuctionAPITest" />
+      <item itemvalue="JUnit.AutoBidAuctionAPITest.testDeclareWinner_Exception_NegativeIncrementValue" />
+      <item itemvalue="JUnit.AutoBidAuctionAPITest.testDeclareWinner_Exception_NullListOfBidders" />
+      <item itemvalue="JUnit.AutoBidAuctionAPITest.testDeclareWinner_Exception_whenMaxBidPriceLessThanStartBidPrice" />
+      <item itemvalue="JUnit.AutoBidSystemAPITest.testDeclareWinnerExceptionForNegativeIncrementValue" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AutoBidSystemAPITest.testDeclareWinnerExceptionForNegativeIncrementValue" />
+        <item itemvalue="JUnit.AutoBidAuctionAPITest" />
+        <item itemvalue="JUnit.AutoBidAuctionAPITest.testDeclareWinner_Exception_NegativeIncrementValue" />
+        <item itemvalue="JUnit.AutoBidAuctionAPITest.testDeclareWinner_Exception_whenMaxBidPriceLessThanStartBidPrice" />
+        <item itemvalue="JUnit.AutoBidAuctionAPITest.testDeclareWinner_Exception_NullListOfBidders" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="587e375a-064d-4fff-a146-392c7f27dbd5" name="Default Changelist" comment="" />
+      <created>1580521358418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580521358418</updated>
+      <workItem from="1580521359954" duration="9415000" />
+      <workItem from="1580539833931" duration="3773000" />
+      <workItem from="1580585513673" duration="17727000" />
+      <workItem from="1580625818473" duration="54000" />
+      <workItem from="1580625903177" duration="500000" />
+      <workItem from="1586132300983" duration="1629000" />
+      <workItem from="1586133992829" duration="1146000" />
+      <workItem from="1586135263276" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rani/autobidsystem/AutoBidSystemAPITest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rani/autobidsystem/AutoBidSystemAPITest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rani/autobidsystem/util/AutoBidValidator.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rani/autobidsystem/AutoBidSystemAPITest.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rani/autobidsystem/AutoBidSystemAPITest.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rani/autobidsystem/AutoBidSystemAPITest.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rani/autobidsystem/util/AutoBidValidator.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rani/autobidsystem/AutoBidSystemAPITest.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/rani/autobidsystem/AutoBidSystemAPITest.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/autobidauctionsystem$AutoBidAuctionAPITest.ic" NAME="AutoBidAuctionAPITest Coverage Results" MODIFIED="1580604887412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tally.autobidauctionsystem.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/autobidauctionsystem$AutoBidAuctionAPITest_testDeclareWinner_success_ReachedAtMaxPrice.ic" NAME="AutoBidAuctionAPITest.testDeclareWinner_success_ReachedAtMaxPrice Coverage Results" MODIFIED="1580592468609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tally.autobidauctionsystem.*</FILTER>
+    </SUITE>
+  </component>
+</project>
